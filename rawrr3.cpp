@@ -15,7 +15,7 @@ int main(){
     cout<<"Masukan x2 dan y2: ";
     cin>>x2>>y2;
 
-    radius = distance (x1, x2, y1, y1)
+    radius = distance (x1, x2, y1, y1);
 
     diameter = radius*2;
 
@@ -28,5 +28,6 @@ int main(){
     cout<<"Keliling: "<<circum<<" units."<<endl;
     cout<<"Luas: "<<area<<" units."<<endl;
     return 0;
+
 
 }
